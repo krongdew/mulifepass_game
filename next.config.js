@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   // ระบุ basePath ตามชื่อ repository ของคุณ
-  basePath: '/your-repo-name',
+  basePath: '/mulifepass_game',
   // ถ้าใช้ custom domain ให้ comment บรรทัดด้านบนออก
   
   // แก้ไขปัญหารูปภาพ
